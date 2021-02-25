@@ -1,0 +1,2 @@
+[0215/141233.614:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0215/141233.726:ERROR:file_io_win.cc(180)] CreateFile C:\Users\DELL-PC\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
